@@ -29,7 +29,7 @@ git add --all
 
 Update manifest file
 ```commandline
-check-manifest update
+check-manifest --update
 ```
 
 ## Step 3: Build the documentation
